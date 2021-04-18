@@ -1,4 +1,4 @@
-### I make games and applications in languages such as:
+### Just another Linux developer who makes things primary in:
 - C
 - C++
 - Python
