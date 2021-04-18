@@ -1,4 +1,4 @@
-### Just another Linux developer who makes things primary in:
+### Just another Linux programmer who makes things primary in:
 - C
 - C++
 - Python
