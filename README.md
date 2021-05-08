@@ -1,8 +1,8 @@
-### Just another Linux programmer who makes things primary in:
-- C
-- C++
-- Python
-- Lua
-- Assembly
+### Just another Linux programmer who makes things such as:
+- Operating Systems
+- Compilers
+- Game Engines
+- Games
+- Utilities & Wrappers
 
-and many more.
+and much more.
