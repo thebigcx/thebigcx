@@ -1,4 +1,4 @@
-### Just another Linux programmer who makes things such as:
+### Just another programmer who makes things such as:
 - Operating Systems
 - Compilers
 - Game Engines
